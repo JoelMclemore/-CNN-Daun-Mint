@@ -1,0 +1,13 @@
+{
+  "class_names": [
+    "Dried",
+    "Fresh"
+  ],
+  "positive_class": "Fresh",
+  "image_size": [
+    128,
+    128
+  ],
+  "normalization": "divide_by_255",
+  "threshold": 0.5
+}
